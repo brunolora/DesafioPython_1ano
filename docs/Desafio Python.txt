@@ -1,0 +1,34 @@
+Desafio:  Descobrir como calcular as notas de Média Checkpoint l Challenge, Semestre 2 e Média Anual
+
+Input: Média Semestre_1, Semestre_2: Checkpoint1/2/3, Sprint3/4
+
+Relatórios:
+ 1 - RM + Nome
+     Disciplina
+     Semestre 1: Valor
+     Semestre 2: 
+     Média Checkpoint: Valor
+     Média Challenge: Valor
+ 	Nota minima Global Solution:
+ 	
+ 2 - Alunos que não possuem chance de aprovação
+ 	RM + Nome
+ 	
+ 3 - Alunos que estão aprovados na disciplina mesmo sem a nota
+ da Global Solution.
+ 	RM + Nome
+ 	
+ Bônus: Inserir dados dentro do Excel
+ 
+ Grupos: 
+1	Unemind - Raissa Iorio da Silva Oliveira ->  Descobrir o Calculo de Média | Bônus: Aprender como inserir dados dentro do Excel via código 
+2	Bridge Lab - Gabriel Andrade Pereira -> Alimentar planilha com informações/dados ( Inserir 20 registros Ficticios com situações diferentes )
+3	ANALIST,S CONCERT'S - Gabriel Henrique Mahmoud Cardoso ->  Criar Relatório 2 
+4	FBVM - Matheus Meneguim ->  Criar Relatório 3 
+5	Polaris - Icaro Fernandes  ->  Realizar testes de QA 
+6	Vortechs - Guilherme Vieira de Paiva ->  Criar Relatório 1 
+
+Tecnologias:
+Pandas - Manipular Excel
+Openpyxl
+FPDF - Criar PDF
